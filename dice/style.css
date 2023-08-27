@@ -1,0 +1,53 @@
+body {
+    background-color: #332452;
+}
+
+#refreshme {
+    display: block;
+    margin-top: 30px;
+}
+
+#players {
+    margin-top: 40px;
+    
+}
+
+#p1 ,#p2 {
+    margin-top: 20px;
+    padding: 40px;
+    font-size: 40px;
+    color:bisque;
+    font-family: 'Dancing Script', cursive;
+}
+
+#dice1 , #dice2 {
+    display: inline-block;
+    background-color: black;
+    margin: 30px;
+    padding: 20px;
+    width: 200x;
+    height: 300x;
+    font-size: 30px;
+    color: darkgreen;
+    font-family: 'Dancing Script', cursive;
+}
+#dices {
+    margin-top: 30px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+div, span {
+    text-align: center;
+    /* border: 2px solid black; */
+}
+
+h1 {
+    display: block;
+    font-size: 80px;
+    color: sienna;
+    font-family: 'Dancing Script', cursive;
+}
